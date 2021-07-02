@@ -1,2 +1,6 @@
-New Delhi,Beijing,Islambad,Columbo,Dhaka
+1.New Delhi 
+2.Beijing
+3.Islambad
+4.Columbo
+5.Dhaka
   
